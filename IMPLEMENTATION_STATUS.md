@@ -11,7 +11,7 @@ Updated 2026-11-03.
 - Procedural additional hub landmarks, lamps and volcanic visual effects.
 
 ## Limitations / not yet complete
-- The forge, race, reaction lab and temple are **currently question-based mini games**, not 3D direct-manipulation activities or a complete parkour course.
+- Atom Forge now has interactive proton/neutron/electron counters for Na-23 (2D interface); Dash, Reaction Lab and Temple remain question-based rather than physical 3D mini-games.
 - No new navigable physical 3D level architecture or NPC dialogue yet.
 - Only one collectible element is implemented, not 118 collectible entities.
 - Neither full TypeScript build nor production browser/WebGL smoke test has been confirmed in this session.
