@@ -1,5 +1,6 @@
 import {useState} from 'react';
 import {useGame,MISSIONS} from '../state';
+import {AtomForge} from './AtomForge';
 import type {MissionId} from '../state';
 type Challenge={prompt:string;choices:string[];correct:number;reason:string};
 const challenges:Record<Exclude<MissionId,'crystal'>,Challenge[]>={
@@ -13,6 +14,7 @@ const challenges:Record<Exclude<MissionId,'crystal'>,Challenge[]>={
  {prompt:'ผู้พิทักษ์ด่าน 3: โซเดียมโดยทั่วไปเกิดไอออนใด?',choices:['Na²⁺','Na⁺','Na⁻'],correct:1,reason:'โซเดียมเสียอิเล็กตรอน 1 ตัวเกิด Na⁺'}
  ]};
 export function MissionPanel(){const mission=useGame(s=>s.mission);const phase=useGame(s=>s.phase);const finish=useGame(s=>s.finishMission);const setPhase=useGame(s=>s.setPhase);const [step,setStep]=useState(0);const [answer,setAnswer]=useState<number|null>(null);const [attempts,setAttempts]=useState(0);if(phase!=='puzzle'||!mission||mission==='crystal')return null;
+if(mission==='forge')return <AtomForge/>;
 const list=challenges[mission];const index=Math.min(step,list.length-1);const c=list[index];const correct=answer===c.correct;
 const next=()=>{if(!correct)return;if(index===list.length-1){finish(mission);setStep(0);setAnswer(null);setAttempts(0);}else{setStep(index+1);setAnswer(null);}};
 return <div className="overlay"><section className="modal" role="dialog" aria-modal="true" aria-label="ภารกิจเคมี">
