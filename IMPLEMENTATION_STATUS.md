@@ -1,14 +1,28 @@
-# Implementation Status — 0.1 prototype
+# ELEMENTOPIA 3D — RPG Upgrade progress (v0.3 work in progress)
 
-- Implemented: React/R3F 3D procedural hub, camera orbit, WASD movement, Rapier rigidbody/capsule collider, collision boundaries, simple collectible, chemistry question, unlockable portal, local persistence, settings, mobile joystick, 118 element symbols/atomic numbers, atlas UI, progress export, GH Pages workflow, basic Node tests.
-- Incomplete: 30 fully playable quests; 8 distinctly modeled regions (hub and volcanic color variant only); authored characters/animations; real scientific simulations; audio; comprehensive performance and browser QA; verified element names and atomic weights; teacher roster; production deployment.
-- Important: 118 entries are structural data with many placeholder names and unavailable weights, **not** a scientifically validated educational dataset. No deployment has been performed.
-- Build status: npm package install / typecheck / build must be verified in a network-enabled environment if dependencies unavailable locally.
-- Deployment deviation: CI uses `npm install`, not `npm ci`, because npm registry is unreachable in the build environment and a trustworthy lockfile could not be generated. Generate/commit package-lock.json with `npm install`, then change CI to `npm ci`.
-- English element names 1–118 were populated from the locally available RDKit periodic table; Thai transliterations not individually verified are visibly marked as pending. Atomic weights remain unset pending authoritative review.
+Updated 2026-11-03.
 
-## v0.2 Brand Rename
-- เปลี่ยนชื่อภายในโค้ดและ metadata เป็น ELEMENTOPIA 3D
-- เปลี่ยน base path สำหรับ GitHub Pages เป็น `/ELEMENTOPIA_3D/`
-- เพิ่มโลโก้ SVG ต้นฉบับและปรับ intro, HUD และ favicon
-- ยังไม่ได้เปลี่ยนชื่อ repository ที่อยู่บน GitHub โดยตรง และยังไม่ได้ยืนยัน deployment ออนไลน์
+## Committed changes
+- Six ordered mission IDs: crystal, forge, dash, reaction, temple, guardian.
+- Chemistry choice interactions with feedback; boss is three sequential puzzles.
+- XP, completion tracker, simple progression prerequisites, idempotent rewards.
+- Local save schema v2 and best-effort migration from legacy pq3d.save.
+- Quest Board user interface and exported progress v2.
+- Procedural additional hub landmarks, lamps and volcanic visual effects.
+
+## Limitations / not yet complete
+- The forge, race, reaction lab and temple are **currently question-based mini games**, not 3D direct-manipulation activities or a complete parkour course.
+- No new navigable physical 3D level architecture or NPC dialogue yet.
+- Only one collectible element is implemented, not 118 collectible entities.
+- Neither full TypeScript build nor production browser/WebGL smoke test has been confirmed in this session.
+- Deployment success and current GitHub Actions run status have not been verified.
+- The earlier 30-mission, eight-region long-term roadmap remains outstanding.
+
+## Run in CI
+npm install --no-audit --no-fund
+npm run typecheck
+npm test
+npm run build
+
+## Recommended next milestone
+Fix any reported CI errors, verify Pages deploy of dist, then build interactive Atom Forge with draggable particles and actual obstacle-based Element Dash. Test progress migration and mobile usability in a browser.
