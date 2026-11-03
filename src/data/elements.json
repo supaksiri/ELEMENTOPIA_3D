@@ -1,0 +1,2362 @@
+[
+  {
+    "atomicNumber": 1,
+    "symbol": "H",
+    "nameEn": "Hydrogen",
+    "nameTh": "ไฮโดรเจน",
+    "group": 1,
+    "period": 1,
+    "block": "s",
+    "category": "nonmetal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 2,
+    "symbol": "He",
+    "nameEn": "Helium",
+    "nameTh": "ฮีเลียม",
+    "group": 18,
+    "period": 1,
+    "block": "p",
+    "category": "noble-gas",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 3,
+    "symbol": "Li",
+    "nameEn": "Lithium",
+    "nameTh": "ลิเทียม",
+    "group": 1,
+    "period": 2,
+    "block": "s",
+    "category": "alkali-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 4,
+    "symbol": "Be",
+    "nameEn": "Beryllium",
+    "nameTh": "เบริลเลียม",
+    "group": 2,
+    "period": 2,
+    "block": "s",
+    "category": "alkaline-earth-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 5,
+    "symbol": "B",
+    "nameEn": "Boron",
+    "nameTh": "โบรอน",
+    "group": 13,
+    "period": 2,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 6,
+    "symbol": "C",
+    "nameEn": "Carbon",
+    "nameTh": "คาร์บอน",
+    "group": 14,
+    "period": 2,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 7,
+    "symbol": "N",
+    "nameEn": "Nitrogen",
+    "nameTh": "ไนโตรเจน",
+    "group": 15,
+    "period": 2,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 8,
+    "symbol": "O",
+    "nameEn": "Oxygen",
+    "nameTh": "ออกซิเจน",
+    "group": 16,
+    "period": 2,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 9,
+    "symbol": "F",
+    "nameEn": "Fluorine",
+    "nameTh": "ฟลูออรีน",
+    "group": 17,
+    "period": 2,
+    "block": "p",
+    "category": "halogen",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 10,
+    "symbol": "Ne",
+    "nameEn": "Neon",
+    "nameTh": "นีออน",
+    "group": 18,
+    "period": 2,
+    "block": "p",
+    "category": "noble-gas",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 11,
+    "symbol": "Na",
+    "nameEn": "Sodium",
+    "nameTh": "โซเดียม",
+    "group": 1,
+    "period": 3,
+    "block": "s",
+    "category": "alkali-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 12,
+    "symbol": "Mg",
+    "nameEn": "Magnesium",
+    "nameTh": "แมกนีเซียม",
+    "group": 2,
+    "period": 3,
+    "block": "s",
+    "category": "alkaline-earth-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 13,
+    "symbol": "Al",
+    "nameEn": "Aluminium",
+    "nameTh": "อะลูมิเนียม",
+    "group": 13,
+    "period": 3,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 14,
+    "symbol": "Si",
+    "nameEn": "Silicon",
+    "nameTh": "ซิลิคอน",
+    "group": 14,
+    "period": 3,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 15,
+    "symbol": "P",
+    "nameEn": "Phosphorus",
+    "nameTh": "ฟอสฟอรัส",
+    "group": 15,
+    "period": 3,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 16,
+    "symbol": "S",
+    "nameEn": "Sulfur",
+    "nameTh": "กำมะถัน",
+    "group": 16,
+    "period": 3,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 17,
+    "symbol": "Cl",
+    "nameEn": "Chlorine",
+    "nameTh": "คลอรีน",
+    "group": 17,
+    "period": 3,
+    "block": "p",
+    "category": "halogen",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 18,
+    "symbol": "Ar",
+    "nameEn": "Argon",
+    "nameTh": "อาร์กอน",
+    "group": 18,
+    "period": 3,
+    "block": "p",
+    "category": "noble-gas",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 19,
+    "symbol": "K",
+    "nameEn": "Potassium",
+    "nameTh": "โพแทสเซียม",
+    "group": 1,
+    "period": 4,
+    "block": "s",
+    "category": "alkali-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 20,
+    "symbol": "Ca",
+    "nameEn": "Calcium",
+    "nameTh": "แคลเซียม",
+    "group": 2,
+    "period": 4,
+    "block": "s",
+    "category": "alkaline-earth-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 21,
+    "symbol": "Sc",
+    "nameEn": "Scandium",
+    "nameTh": "Scandium (รอคำอ่านภาษาไทย)",
+    "group": 3,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 22,
+    "symbol": "Ti",
+    "nameEn": "Titanium",
+    "nameTh": "Titanium (รอคำอ่านภาษาไทย)",
+    "group": 4,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 23,
+    "symbol": "V",
+    "nameEn": "Vanadium",
+    "nameTh": "Vanadium (รอคำอ่านภาษาไทย)",
+    "group": 5,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 24,
+    "symbol": "Cr",
+    "nameEn": "Chromium",
+    "nameTh": "Chromium (รอคำอ่านภาษาไทย)",
+    "group": 6,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 25,
+    "symbol": "Mn",
+    "nameEn": "Manganese",
+    "nameTh": "Manganese (รอคำอ่านภาษาไทย)",
+    "group": 7,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 26,
+    "symbol": "Fe",
+    "nameEn": "Iron",
+    "nameTh": "เหล็ก",
+    "group": 8,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 27,
+    "symbol": "Co",
+    "nameEn": "Cobalt",
+    "nameTh": "Cobalt (รอคำอ่านภาษาไทย)",
+    "group": 9,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 28,
+    "symbol": "Ni",
+    "nameEn": "Nickel",
+    "nameTh": "Nickel (รอคำอ่านภาษาไทย)",
+    "group": 10,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 29,
+    "symbol": "Cu",
+    "nameEn": "Copper",
+    "nameTh": "ทองแดง",
+    "group": 11,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 30,
+    "symbol": "Zn",
+    "nameEn": "Zinc",
+    "nameTh": "Zinc (รอคำอ่านภาษาไทย)",
+    "group": 12,
+    "period": 4,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 31,
+    "symbol": "Ga",
+    "nameEn": "Gallium",
+    "nameTh": "Gallium (รอคำอ่านภาษาไทย)",
+    "group": 13,
+    "period": 4,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 32,
+    "symbol": "Ge",
+    "nameEn": "Germanium",
+    "nameTh": "Germanium (รอคำอ่านภาษาไทย)",
+    "group": 14,
+    "period": 4,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 33,
+    "symbol": "As",
+    "nameEn": "Arsenic",
+    "nameTh": "Arsenic (รอคำอ่านภาษาไทย)",
+    "group": 15,
+    "period": 4,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 34,
+    "symbol": "Se",
+    "nameEn": "Selenium",
+    "nameTh": "Selenium (รอคำอ่านภาษาไทย)",
+    "group": 16,
+    "period": 4,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 35,
+    "symbol": "Br",
+    "nameEn": "Bromine",
+    "nameTh": "Bromine (รอคำอ่านภาษาไทย)",
+    "group": 17,
+    "period": 4,
+    "block": "p",
+    "category": "halogen",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 36,
+    "symbol": "Kr",
+    "nameEn": "Krypton",
+    "nameTh": "Krypton (รอคำอ่านภาษาไทย)",
+    "group": 18,
+    "period": 4,
+    "block": "p",
+    "category": "noble-gas",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 37,
+    "symbol": "Rb",
+    "nameEn": "Rubidium",
+    "nameTh": "Rubidium (รอคำอ่านภาษาไทย)",
+    "group": 1,
+    "period": 5,
+    "block": "s",
+    "category": "alkali-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 38,
+    "symbol": "Sr",
+    "nameEn": "Strontium",
+    "nameTh": "Strontium (รอคำอ่านภาษาไทย)",
+    "group": 2,
+    "period": 5,
+    "block": "s",
+    "category": "alkaline-earth-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 39,
+    "symbol": "Y",
+    "nameEn": "Yttrium",
+    "nameTh": "Yttrium (รอคำอ่านภาษาไทย)",
+    "group": 3,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 40,
+    "symbol": "Zr",
+    "nameEn": "Zirconium",
+    "nameTh": "Zirconium (รอคำอ่านภาษาไทย)",
+    "group": 4,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 41,
+    "symbol": "Nb",
+    "nameEn": "Niobium",
+    "nameTh": "Niobium (รอคำอ่านภาษาไทย)",
+    "group": 5,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 42,
+    "symbol": "Mo",
+    "nameEn": "Molybdenum",
+    "nameTh": "Molybdenum (รอคำอ่านภาษาไทย)",
+    "group": 6,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 43,
+    "symbol": "Tc",
+    "nameEn": "Technetium",
+    "nameTh": "Technetium (รอคำอ่านภาษาไทย)",
+    "group": 7,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 44,
+    "symbol": "Ru",
+    "nameEn": "Ruthenium",
+    "nameTh": "Ruthenium (รอคำอ่านภาษาไทย)",
+    "group": 8,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 45,
+    "symbol": "Rh",
+    "nameEn": "Rhodium",
+    "nameTh": "Rhodium (รอคำอ่านภาษาไทย)",
+    "group": 9,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 46,
+    "symbol": "Pd",
+    "nameEn": "Palladium",
+    "nameTh": "Palladium (รอคำอ่านภาษาไทย)",
+    "group": 10,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 47,
+    "symbol": "Ag",
+    "nameEn": "Silver",
+    "nameTh": "เงิน",
+    "group": 11,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 48,
+    "symbol": "Cd",
+    "nameEn": "Cadmium",
+    "nameTh": "Cadmium (รอคำอ่านภาษาไทย)",
+    "group": 12,
+    "period": 5,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 49,
+    "symbol": "In",
+    "nameEn": "Indium",
+    "nameTh": "Indium (รอคำอ่านภาษาไทย)",
+    "group": 13,
+    "period": 5,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 50,
+    "symbol": "Sn",
+    "nameEn": "Tin",
+    "nameTh": "Tin (รอคำอ่านภาษาไทย)",
+    "group": 14,
+    "period": 5,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 51,
+    "symbol": "Sb",
+    "nameEn": "Antimony",
+    "nameTh": "Antimony (รอคำอ่านภาษาไทย)",
+    "group": 15,
+    "period": 5,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 52,
+    "symbol": "Te",
+    "nameEn": "Tellurium",
+    "nameTh": "Tellurium (รอคำอ่านภาษาไทย)",
+    "group": 16,
+    "period": 5,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 53,
+    "symbol": "I",
+    "nameEn": "Iodine",
+    "nameTh": "Iodine (รอคำอ่านภาษาไทย)",
+    "group": 17,
+    "period": 5,
+    "block": "p",
+    "category": "halogen",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 54,
+    "symbol": "Xe",
+    "nameEn": "Xenon",
+    "nameTh": "Xenon (รอคำอ่านภาษาไทย)",
+    "group": 18,
+    "period": 5,
+    "block": "p",
+    "category": "noble-gas",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 55,
+    "symbol": "Cs",
+    "nameEn": "Caesium",
+    "nameTh": "Caesium (รอคำอ่านภาษาไทย)",
+    "group": 1,
+    "period": 6,
+    "block": "s",
+    "category": "alkali-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 56,
+    "symbol": "Ba",
+    "nameEn": "Barium",
+    "nameTh": "Barium (รอคำอ่านภาษาไทย)",
+    "group": 2,
+    "period": 6,
+    "block": "s",
+    "category": "alkaline-earth-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 57,
+    "symbol": "La",
+    "nameEn": "Lanthanum",
+    "nameTh": "Lanthanum (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 58,
+    "symbol": "Ce",
+    "nameEn": "Cerium",
+    "nameTh": "Cerium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 59,
+    "symbol": "Pr",
+    "nameEn": "Praseodymium",
+    "nameTh": "Praseodymium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 60,
+    "symbol": "Nd",
+    "nameEn": "Neodymium",
+    "nameTh": "Neodymium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 61,
+    "symbol": "Pm",
+    "nameEn": "Promethium",
+    "nameTh": "Promethium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 62,
+    "symbol": "Sm",
+    "nameEn": "Samarium",
+    "nameTh": "Samarium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 63,
+    "symbol": "Eu",
+    "nameEn": "Europium",
+    "nameTh": "Europium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 64,
+    "symbol": "Gd",
+    "nameEn": "Gadolinium",
+    "nameTh": "Gadolinium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 65,
+    "symbol": "Tb",
+    "nameEn": "Terbium",
+    "nameTh": "Terbium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 66,
+    "symbol": "Dy",
+    "nameEn": "Dysprosium",
+    "nameTh": "Dysprosium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 67,
+    "symbol": "Ho",
+    "nameEn": "Holmium",
+    "nameTh": "Holmium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 68,
+    "symbol": "Er",
+    "nameEn": "Erbium",
+    "nameTh": "Erbium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 69,
+    "symbol": "Tm",
+    "nameEn": "Thulium",
+    "nameTh": "Thulium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 70,
+    "symbol": "Yb",
+    "nameEn": "Ytterbium",
+    "nameTh": "Ytterbium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 71,
+    "symbol": "Lu",
+    "nameEn": "Lutetium",
+    "nameTh": "Lutetium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "category": "lanthanoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 72,
+    "symbol": "Hf",
+    "nameEn": "Hafnium",
+    "nameTh": "Hafnium (รอคำอ่านภาษาไทย)",
+    "group": 4,
+    "period": 6,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 73,
+    "symbol": "Ta",
+    "nameEn": "Tantalum",
+    "nameTh": "Tantalum (รอคำอ่านภาษาไทย)",
+    "group": 5,
+    "period": 6,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 74,
+    "symbol": "W",
+    "nameEn": "Tungsten",
+    "nameTh": "Tungsten (รอคำอ่านภาษาไทย)",
+    "group": 6,
+    "period": 6,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 75,
+    "symbol": "Re",
+    "nameEn": "Rhenium",
+    "nameTh": "Rhenium (รอคำอ่านภาษาไทย)",
+    "group": 7,
+    "period": 6,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 76,
+    "symbol": "Os",
+    "nameEn": "Osmium",
+    "nameTh": "Osmium (รอคำอ่านภาษาไทย)",
+    "group": 8,
+    "period": 6,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 77,
+    "symbol": "Ir",
+    "nameEn": "Iridium",
+    "nameTh": "Iridium (รอคำอ่านภาษาไทย)",
+    "group": 9,
+    "period": 6,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 78,
+    "symbol": "Pt",
+    "nameEn": "Platinum",
+    "nameTh": "Platinum (รอคำอ่านภาษาไทย)",
+    "group": 10,
+    "period": 6,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 79,
+    "symbol": "Au",
+    "nameEn": "Gold",
+    "nameTh": "ทองคำ",
+    "group": 11,
+    "period": 6,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 80,
+    "symbol": "Hg",
+    "nameEn": "Mercury",
+    "nameTh": "Mercury (รอคำอ่านภาษาไทย)",
+    "group": 12,
+    "period": 6,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 81,
+    "symbol": "Tl",
+    "nameEn": "Thallium",
+    "nameTh": "Thallium (รอคำอ่านภาษาไทย)",
+    "group": 13,
+    "period": 6,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 82,
+    "symbol": "Pb",
+    "nameEn": "Lead",
+    "nameTh": "Lead (รอคำอ่านภาษาไทย)",
+    "group": 14,
+    "period": 6,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 83,
+    "symbol": "Bi",
+    "nameEn": "Bismuth",
+    "nameTh": "Bismuth (รอคำอ่านภาษาไทย)",
+    "group": 15,
+    "period": 6,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 84,
+    "symbol": "Po",
+    "nameEn": "Polonium",
+    "nameTh": "Polonium (รอคำอ่านภาษาไทย)",
+    "group": 16,
+    "period": 6,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 85,
+    "symbol": "At",
+    "nameEn": "Astatine",
+    "nameTh": "Astatine (รอคำอ่านภาษาไทย)",
+    "group": 17,
+    "period": 6,
+    "block": "p",
+    "category": "halogen",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 86,
+    "symbol": "Rn",
+    "nameEn": "Radon",
+    "nameTh": "Radon (รอคำอ่านภาษาไทย)",
+    "group": 18,
+    "period": 6,
+    "block": "p",
+    "category": "noble-gas",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 87,
+    "symbol": "Fr",
+    "nameEn": "Francium",
+    "nameTh": "Francium (รอคำอ่านภาษาไทย)",
+    "group": 1,
+    "period": 7,
+    "block": "s",
+    "category": "alkali-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 88,
+    "symbol": "Ra",
+    "nameEn": "Radium",
+    "nameTh": "Radium (รอคำอ่านภาษาไทย)",
+    "group": 2,
+    "period": 7,
+    "block": "s",
+    "category": "alkaline-earth-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 89,
+    "symbol": "Ac",
+    "nameEn": "Actinium",
+    "nameTh": "Actinium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 90,
+    "symbol": "Th",
+    "nameEn": "Thorium",
+    "nameTh": "Thorium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 91,
+    "symbol": "Pa",
+    "nameEn": "Protactinium",
+    "nameTh": "Protactinium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 92,
+    "symbol": "U",
+    "nameEn": "Uranium",
+    "nameTh": "Uranium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 93,
+    "symbol": "Np",
+    "nameEn": "Neptunium",
+    "nameTh": "Neptunium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 94,
+    "symbol": "Pu",
+    "nameEn": "Plutonium",
+    "nameTh": "Plutonium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 95,
+    "symbol": "Am",
+    "nameEn": "Americium",
+    "nameTh": "Americium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 96,
+    "symbol": "Cm",
+    "nameEn": "Curium",
+    "nameTh": "Curium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 97,
+    "symbol": "Bk",
+    "nameEn": "Berkelium",
+    "nameTh": "Berkelium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 98,
+    "symbol": "Cf",
+    "nameEn": "Californium",
+    "nameTh": "Californium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 99,
+    "symbol": "Es",
+    "nameEn": "Einsteinium",
+    "nameTh": "Einsteinium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 100,
+    "symbol": "Fm",
+    "nameEn": "Fermium",
+    "nameTh": "Fermium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 101,
+    "symbol": "Md",
+    "nameEn": "Mendelevium",
+    "nameTh": "Mendelevium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 102,
+    "symbol": "No",
+    "nameEn": "Nobelium",
+    "nameTh": "Nobelium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 103,
+    "symbol": "Lr",
+    "nameEn": "Lawrencium",
+    "nameTh": "Lawrencium (รอคำอ่านภาษาไทย)",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "category": "actinoid",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 104,
+    "symbol": "Rf",
+    "nameEn": "Rutherfordium",
+    "nameTh": "Rutherfordium (รอคำอ่านภาษาไทย)",
+    "group": 4,
+    "period": 7,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 105,
+    "symbol": "Db",
+    "nameEn": "Dubnium",
+    "nameTh": "Dubnium (รอคำอ่านภาษาไทย)",
+    "group": 5,
+    "period": 7,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 106,
+    "symbol": "Sg",
+    "nameEn": "Seaborgium",
+    "nameTh": "Seaborgium (รอคำอ่านภาษาไทย)",
+    "group": 6,
+    "period": 7,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 107,
+    "symbol": "Bh",
+    "nameEn": "Bohrium",
+    "nameTh": "Bohrium (รอคำอ่านภาษาไทย)",
+    "group": 7,
+    "period": 7,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 108,
+    "symbol": "Hs",
+    "nameEn": "Hassium",
+    "nameTh": "Hassium (รอคำอ่านภาษาไทย)",
+    "group": 8,
+    "period": 7,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 109,
+    "symbol": "Mt",
+    "nameEn": "Meitnerium",
+    "nameTh": "Meitnerium (รอคำอ่านภาษาไทย)",
+    "group": 9,
+    "period": 7,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 110,
+    "symbol": "Ds",
+    "nameEn": "Darmstadtium",
+    "nameTh": "Darmstadtium (รอคำอ่านภาษาไทย)",
+    "group": 10,
+    "period": 7,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 111,
+    "symbol": "Rg",
+    "nameEn": "Roentgenium",
+    "nameTh": "Roentgenium (รอคำอ่านภาษาไทย)",
+    "group": 11,
+    "period": 7,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 112,
+    "symbol": "Cn",
+    "nameEn": "Copernicium",
+    "nameTh": "Copernicium (รอคำอ่านภาษาไทย)",
+    "group": 12,
+    "period": 7,
+    "block": "d",
+    "category": "transition-metal",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 113,
+    "symbol": "Nh",
+    "nameEn": "Nihonium",
+    "nameTh": "Nihonium (รอคำอ่านภาษาไทย)",
+    "group": 13,
+    "period": 7,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 114,
+    "symbol": "Fl",
+    "nameEn": "Flerovium",
+    "nameTh": "Flerovium (รอคำอ่านภาษาไทย)",
+    "group": 14,
+    "period": 7,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 115,
+    "symbol": "Mc",
+    "nameEn": "Moscovium",
+    "nameTh": "Moscovium (รอคำอ่านภาษาไทย)",
+    "group": 15,
+    "period": 7,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 116,
+    "symbol": "Lv",
+    "nameEn": "Livermorium",
+    "nameTh": "Livermorium (รอคำอ่านภาษาไทย)",
+    "group": 16,
+    "period": 7,
+    "block": "p",
+    "category": "p-block",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 117,
+    "symbol": "Ts",
+    "nameEn": "Tennessine",
+    "nameTh": "Tennessine (รอคำอ่านภาษาไทย)",
+    "group": 17,
+    "period": 7,
+    "block": "p",
+    "category": "halogen",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  },
+  {
+    "atomicNumber": 118,
+    "symbol": "Og",
+    "nameEn": "Oganesson",
+    "nameTh": "โอกาเนสซอน",
+    "group": 18,
+    "period": 7,
+    "block": "p",
+    "category": "noble-gas",
+    "standardAtomicWeight": {
+      "kind": "unavailable",
+      "note": "Pending verified IUPAC/CIAAW value"
+    },
+    "electronConfiguration": null,
+    "shells": null,
+    "stateAtRoomTemperature": null,
+    "oxidationStates": [],
+    "safetyNote": "การทดลองต้องอยู่ภายใต้คำแนะนำของครู",
+    "sourceUrl": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  }
+]
