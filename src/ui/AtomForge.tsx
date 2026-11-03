@@ -1,13 +1,13 @@
 import {useState} from 'react';
 import {Canvas} from '@react-three/fiber';
-import {OrbitControls,Float,Text} from '@react-three/drei';
+import {OrbitControls,Float} from '@react-three/drei';
 import {useGame} from '../state';
 type Particle='p'|'n'|'e';
 const colors:Record<Particle,string>={p:'#ff9a58',n:'#8ca9c9',e:'#27d7eb'};
 function AtomModel({counts}:{counts:Record<Particle,number>}){
  const core=Array.from({length:counts.p+counts.n},(_,i)=>{const angle=i*2.399963;const radius=.15*Math.sqrt(i);return {x:Math.cos(angle)*radius,y:Math.sin(angle)*radius,z:(i%5-2)*.15,type:i<counts.p?'p':'n'}});
  const electrons=Array.from({length:counts.e},(_,i)=>{const shell=i<2?0:i<10?1:2;const index=shell===0?i:shell===1?i-2:i-10;const count=shell===0?Math.min(2,counts.e):shell===1?Math.min(8,Math.max(0,counts.e-2)):Math.max(1,counts.e-10);const angle=2*Math.PI*index/count;const r=1+shell*.48;return {x:r*Math.cos(angle),y:r*Math.sin(angle),z:0}});
- return <><ambientLight intensity={1.6}/><directionalLight position={[4,5,6]} intensity={2}/><Float floatIntensity={.12} rotationIntensity={.08}><group>{core.map((v,i)=><mesh key={i} position={[v.x,v.y,v.z]}><sphereGeometry args={[.18,14,12]}/><meshStandardMaterial color={colors[v.type as Particle]} roughness={.3}/></mesh>)}{[1,1.48,1.96].map((r,i)=><mesh key={'ring'+i} rotation={[.22,.14,0]}><torusGeometry args={[r,.012,6,80]}/><meshBasicMaterial color="#6b9db7" transparent opacity={.7}/></mesh>)}{electrons.map((v,i)=><mesh key={'e'+i} position={[v.x,v.y,v.z]}><sphereGeometry args={[.085,12,10]}/><meshStandardMaterial color={colors.e} emissive={colors.e} emissiveIntensity={.5}/></mesh>)}</group></Float><Text position={[0,-2.35,0]} fontSize={.19} color="#d8eef7">MODEL · not to scale</Text><OrbitControls enablePan={false} minDistance={3} maxDistance={8}/></>;
+ return <><ambientLight intensity={1.6}/><directionalLight position={[4,5,6]} intensity={2}/><Float floatIntensity={.12} rotationIntensity={.08}><group>{core.map((v,i)=><mesh key={i} position={[v.x,v.y,v.z]}><sphereGeometry args={[.18,14,12]}/><meshStandardMaterial color={colors[v.type as Particle]} roughness={.3}/></mesh>)}{[1,1.48,1.96].map((r,i)=><mesh key={'ring'+i} rotation={[.22,.14,0]}><torusGeometry args={[r,.012,6,80]}/><meshBasicMaterial color="#6b9db7" transparent opacity={.7}/></mesh>)}{electrons.map((v,i)=><mesh key={'e'+i} position={[v.x,v.y,v.z]}><sphereGeometry args={[.085,12,10]}/><meshStandardMaterial color={colors.e} emissive={colors.e} emissiveIntensity={.5}/></mesh>)}</group></Float><OrbitControls enablePan={false} minDistance={3} maxDistance={8}/></>;
 }
 export function AtomForge(){
  const [counts,setCounts]=useState<Record<Particle,number>>({p:8,n:10,e:8});
